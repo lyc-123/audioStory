@@ -87,4 +87,3 @@ class YsSpider:
         for index,i in enumerate(result):
             path = os.path.join(root, self.Chapter_list[index])+'.mp3'
             self.save_a_file(i, path, self.Chapter_list[index])
- print('aaa')
