@@ -47,3 +47,8 @@ class QuName:
 
 qn = QuName(13)         #这里是网站的类别数量(偷了个懒,直接写了个数字)
 qn.getBookList()
+<<<<<<< HEAD
+=======
+#测试vscode git
+#测试vscode git2
+>>>>>>> 339d5dcb98522c7f4f021be5246f57516fcb6a11
